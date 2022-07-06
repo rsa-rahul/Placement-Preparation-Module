@@ -1,5 +1,5 @@
 class Solution {
-public:
+public://rahul
 ListNode* removeNthFromEnd(ListNode* head, int n) {
 ListNode* curr = head;
 int count = 0;

@@ -1,4 +1,4 @@
-class Solution {
+class Solution {//rahul
 public:
     ListNode* helper(ListNode* head,ListNode* &prev){
         if(head==NULL)

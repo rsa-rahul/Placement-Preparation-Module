@@ -1,5 +1,5 @@
 class Solution {
-public:
+public://rahul
 void deleteNode(ListNode* node) {
     node->val = node->next->val;
     node->next = node->next->next;

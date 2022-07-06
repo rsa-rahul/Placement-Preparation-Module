@@ -1,5 +1,5 @@
 class Solution {
-public:
+public://rahul
     ListNode* middleNode(ListNode* head) {
         if(!head){
             return NULL;
